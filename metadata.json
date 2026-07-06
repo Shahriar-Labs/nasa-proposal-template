@@ -1,0 +1,8 @@
+{
+  "name": "NASA ROSES Grant Proposal",
+  "compiler": "pdflatex",
+  "description": "A professional NASA ROSES / NSPIRES research grant proposal template with technical merit, work plan, budget and timeline tables.",
+  "source": "https://letx.app/templates/grants/nasa-roses-proposal/",
+  "author": "LetX",
+  "license": "MIT"
+}
