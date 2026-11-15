@@ -6,7 +6,7 @@
 
 **A professional NASA ROSES / NSPIRES research grant proposal template with technical merit, work plan, budget and timeline tables.**
 
-**[Open this template in LetX](https://letx.app/open?template=nasa-roses-proposal)**: it becomes a new project you can edit and compile in your browser, with no LaTeX install, real-time collaboration and compiles that take a few seconds. Its page in the gallery is [here](https://letx.app/templates/grants/nasa-roses-proposal/).
+Edit and compile this template in your browser at **[letx.app](https://letx.app/templates/grants/nasa-roses-proposal/)**, with no LaTeX install and real-time collaboration. A compile takes a few seconds.
 
 ![NASA ROSES Proposal Template — Free LaTeX preview](preview.png)
 
