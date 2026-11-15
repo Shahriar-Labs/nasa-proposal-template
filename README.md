@@ -1,17 +1,17 @@
 # NASA ROSES Proposal Template — Free LaTeX
 
-[![Open in LetX](https://img.shields.io/badge/Open%20in-LetX-9333EA.svg)](https://letx.app/templates/grants/nasa-roses-proposal/)
+[![Open in LetX](https://letx.app/badges/open-in-letx.svg)](https://letx.app/open?template=nasa-roses-proposal)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Compile Tested](https://img.shields.io/badge/Compile-Tested-success.svg)](#compile-locally)
 
 **A professional NASA ROSES / NSPIRES research grant proposal template with technical merit, work plan, budget and timeline tables.**
 
-Edit and compile this template instantly in your browser — no LaTeX install — at **[letx.app](https://letx.app/templates/grants/nasa-roses-proposal/)**, with real-time collaboration and one-second compiles.
+**[Open this template in LetX](https://letx.app/open?template=nasa-roses-proposal)**: it becomes a new project you can edit and compile in your browser, with no LaTeX install, real-time collaboration and compiles that take a few seconds. Its page in the gallery is [here](https://letx.app/templates/grants/nasa-roses-proposal/).
 
 ![NASA ROSES Proposal Template — Free LaTeX preview](preview.png)
 
 ## Use it online (recommended)
-Open **[this template on LetX »](https://letx.app/templates/grants/nasa-roses-proposal/)** and click *Open as Template* — it compiles in ~1 second, free, in your browser.
+**[Open this template in LetX](https://letx.app/open?template=nasa-roses-proposal)**: it becomes a new project you can edit and compile in your browser, with no LaTeX install, real-time collaboration and compiles that take a few seconds. Its page in the gallery is [here](https://letx.app/templates/grants/nasa-roses-proposal/).
 
 ## <a name="compile-locally"></a>Compile locally
 ```bash
